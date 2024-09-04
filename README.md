@@ -1,10 +1,8 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on the LZ experiment in the hunt for Dark Matter! 
-- 💬 Ask me about anything but my graduation date 
 - 📫 How to reach me: adesousaslivar@crimson.ua.edu 
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: my favorite place to buy socks is actually GameStop 
 
 <!--
 **amslivar/amslivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
