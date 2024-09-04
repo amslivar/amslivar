@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on the LZ experiment in the hunt for Dark Matter! 
 - 📫 How to reach me: adesousaslivar@crimson.ua.edu 
-- 😄 Pronouns: she/her 
 
 <!--
 **amslivar/amslivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
