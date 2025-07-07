@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on the LZ experiment in the hunt for Dark Matter! 
+- 🔭 I’m a grad student at the University of Alabama
 - 📫 How to reach me: adesousaslivar@crimson.ua.edu 
 
 <!--
