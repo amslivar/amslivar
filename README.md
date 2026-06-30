@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I’m a grad student at the University of Alabama
+- ⚛️ I’m a PhD candidate at the University of Alabama
 - 📫 How to reach me: adesousaslivar@crimson.ua.edu 
 
 <!--
